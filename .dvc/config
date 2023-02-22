@@ -1,0 +1,6 @@
+[core]
+    analytics = false
+    remote = storage
+    autostage = true
+['remote "storage"']
+    url = gdrive://1Yu-MOoetMev3M4qGA6iDv6GysnAlGFyG/dvcstore/nigeria-anpr
